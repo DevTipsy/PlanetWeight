@@ -35,4 +35,4 @@ Basée sur les gravités réelles des astres, l’application offre une expérie
 
 1. Clone ce repo :
    ```bash
-   git clone https://github.com/ton-user/PlanetWeight.git
+   git clone https://github.com/DevTipsy/PlanetWeight.git
