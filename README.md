@@ -18,10 +18,10 @@ Basée sur les gravités réelles des astres, l’application offre une expérie
 ## 📸 Aperçu (à ajouter)
 
 <p align="center">
-   <img src="assets/earth.png" width="200" />
-   <img src="assets/earthWithWeightCap.png" width="200" />
-   <img src="assets/marsCap.png" width="200" />
-   <img src="assets/jupiterCap.png" width="200" />
+   <img src="assets/git/earth.png" width="200" />
+   <img src="assets/git/earthWithWeightCap.png" width="200" />
+   <img src="assets/git/marsCap.png" width="200" />
+   <img src="assets/git/jupiterCap.png" width="200" />
 </p>
 
 ---
