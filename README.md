@@ -17,7 +17,10 @@ Basée sur les gravités réelles des astres, l’application offre une expérie
 
 ## 📸 Aperçu (à ajouter)
 
-*(Ajoute ici une ou plusieurs captures d'écran de l'app)*
+![earth](https://github.com/user-attachments/assets/321d1bb9-6b1c-4df5-a69c-7aa9cfc5724f)
+![earthWithWeight](https://github.com/user-attachments/assets/e00bb68d-ead6-4b94-8175-045d79615648)
+![mars](https://github.com/user-attachments/assets/ac2e6a9b-f975-4b22-8e00-44b4b425dbef)
+![jupiter](https://github.com/user-attachments/assets/2bdf25da-3e26-4e4b-ab28-0a0d001ffef1)
 
 ---
 
