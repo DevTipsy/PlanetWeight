@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "planet_with_background.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
